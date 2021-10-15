@@ -1,6 +1,6 @@
 
 <h1>Soy hernan y yo ❤️ code.</h1>
-<h4>[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/jIOmbYmz)<h4
+ <p4>actualmente en busca de trabajo contacto: <p4> :e-mail: <a href="mailto:hriva962@gmail.com">Send an e-mail</a>
 <h5></h5>
 <hr>
 <h2>📝 Statistics: </h2>
@@ -32,7 +32,7 @@
 
 
 ```text
-java  250 hrs 0 mins   █████░░░░░░░░░   0.0%
+java  100 hrs 0 mins   ███░░░░░░░░░░░ 0.0%
 html 0 hrs 0 mins      ░░░░░░░░░░░░░░   0.0%
 css 0 mins             ░░░░░░░░░░░░░░   0.0%
 ```
