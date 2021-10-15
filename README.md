@@ -1,6 +1,6 @@
 
 <h1>Soy hernan y yo ❤️ code.</h1>
- <p4>actualmente en busca de trabajo contacto: <p4> :e-mail: <a href="mailto:hriva962@gmail.com">Send an e-mail</a>
+ <p4>actualmente en busca de trabajo contacto: <p4> :e-mail: <a href="mailto:hriva962@gmail.com">enviar e-mail</a>
 <h5></h5>
 <hr>
 <h2>📝 Statistics: </h2>
