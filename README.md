@@ -84,7 +84,7 @@
 <div align="center">
   <a href="https://github.com/hernanrivas2021">
     <img src="https://github-readme-stats.vercel.app/api?username=hernanrivas2021&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00B4D8&icon_color=0077B6&text_color=D3D3D3&bg_color=0,000000,03045E" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hernanrivas2021&show_icons=true&locale=es&layout=compact&line_height=20&title_color=00B4D8&icon_color=0077B6&text_color=D3D3D3&bg_color=0,000000,03045E" width="375" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hernanrivas2021&hide=nix,html&show_icons=true&locale=es&layout=compact&line_height=20&title_color=00B4D8&icon_color=0077B6&text_color=D3D3D3&bg_color=0,000000,03045E" width="375" alt="Top Langs"/>
   </a>
 </div>
 
