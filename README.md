@@ -1,44 +1,57 @@
-
 <h1 align="center"><b>¡Hola! Soy Hernán </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+Trainee;Enfocado+en+Desarrollo+Backend;Especializ%C3%A1ndome+en+Java+%26+Spring+Boot;Apasionado+por+la+arquitectura+de+software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Full+Stack;Especializado+en+Backend;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+MySQL;Construyendo+APIs+y+Arquitectura+de+Software" alt="Typing SVG" />
   </a>
 </p>
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="45px"></picture> **Sobre mí**
+## 👨‍💻 **Sobre mí**
 
-<picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="230px">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="380px" alt="Coding GIF">
+</p>
 
-- 🚀 **Desarrollador Full Stack Trainee**, con especial interés y enfoque en el **Backend**.
-- ☕ Especializándome en el ecosistema **Java** y **Spring Boot** (APIs REST, JPA/Hibernate, POO).
-- 🗄️ Manejo y diseño de bases de datos relacionales con **MySQL** y persistencia mediante **JDBC / JPA**.
-- 💻 En el Frontend manejo **HTML5, CSS3, JavaScript, Bootstrap** y motores de plantillas como **Thymeleaf**.
-- 💡 Buenas prácticas: trabajo colaborativo bajo metodologías ágiles (**Scrum**) y control de versiones con **Git & GitHub**.
-- 🎯 Buscando oportunidades laborales para aportar valor, resolver problemas y continuar formándome.
+- 🚀 **Desarrollador Full Stack** con fuerte enfoque y pasión por el desarrollo **Backend**.
+- ☕ Dominio de **Java** (tanto Java Core/Estándar como Programación Orientada a Objetos - POO).
+- 🍃 Desarrollo de aplicaciones y APIs REST robustas con **Spring Boot**.
+- 🗄️ Modelado, consultas y administración de bases de datos con **MySQL**.
+- 🔌 Manejo de persistencia de datos mediante **JDBC / JPA / Hibernate**.
+- 🌐 En el lado cliente implemento interfaces con **HTML5, CSS3, JavaScript, Bootstrap** y **Thymeleaf**.
+- 🔄 Organización ágil con **Scrum** y control de versiones con **Git & GitHub**.
 
-<br><br>
+<br>
+
+<div align="center">
+
+### 🔥 Tecnologías Principales (Top Stack)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b> Habilidades y Tecnologías</b>
+## 🛠️ <b>Habilidades Técnicas</b>
 
 <br>
 
 <p align="center">
 
 ### ⚙️ Backend & Bases de Datos
-![Java](https://img.shields.io/badge/Java%20(POO)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Standard](https://img.shields.io/badge/Java%20(Core%20%2F%20SE)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java POO](https://img.shields.io/badge/Java%20(POO)-3A75B0?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JDBC / JPA](https://img.shields.io/badge/JDBC%20%2F%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC / JPA](https://img.shields.io/badge/JDBC%20%2F%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 <br>
 
@@ -51,7 +64,7 @@
 
 <br>
 
-### 🛠️ Herramientas & Metodologías
+### 🧰 Metodologías & Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Scrum](https://img.shields.io/badge/SCRUM-009639?style=for-the-badge&logo=scrumalliance&logoColor=white)
@@ -64,7 +77,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b> Estadísticas de GitHub </b>
+## 📊 <b>Estadísticas de GitHub</b>
 
 <br>
 
@@ -81,7 +94,7 @@
 
 <br>
 
-## <b>¡Conectemos!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60">
+## 🤝 <b>¡Conectemos!</b>
 
 <br>
 
