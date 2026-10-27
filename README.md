@@ -31,6 +31,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
@@ -77,14 +78,21 @@
 
 <br>
 
-## 📊 <b>Estadísticas de GitHub</b>
+## 📊 <b>Estadísticas & Tecnologías Más Usadas</b>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/hernanrivas2021">
-    <img src="https://github-readme-stats.vercel.app/api?username=hernanrivas2021&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00B4D8&icon_color=0077B6&text_color=D3D3D3&bg_color=0,000000,03045E" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hernanrivas2021&hide=nix,html&show_icons=true&locale=es&layout=compact&line_height=20&title_color=00B4D8&icon_color=0077B6&text_color=D3D3D3&bg_color=0,000000,03045E" width="375" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hernanrivas2021&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00B4D8&icon_color=0077B6&text_color=D3D3D3&bg_color=0,000000,03045E" width="490"/>
+  </a>
+
+  <br><br>
+
+  <!-- Tecnologías Más Usadas: Java, Spring Boot, MySQL y JS -->
+  <p><b>Mis Tecnologías Principales:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,js&theme=dark" height="55" alt="Java, Spring, MySQL, JS" />
   </a>
 </div>
 
